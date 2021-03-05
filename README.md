@@ -1,9 +1,9 @@
 # Can the consumer use food scores lables on packages to select heathly food?  
 
-## Author: Pawel Rosikiewicz. 
-## prosikiewicz@gmail.com. 
-## License: MIT https://opensource.org/licenses/MIT. 
-## Copyright (C) 2021.02.24 Pawel Rosikiewicz. 
+Author: Pawel Rosikiewicz. 
+prosikiewicz@gmail.com. 
+License: MIT https://opensource.org/licenses/MIT. 
+Copyright (C) 2021.02.24 Pawel Rosikiewicz. 
 
 ## __ABSTRACT__
 Nutri-Score is an intuitive system for showing nutritiotional value of food products. It is displayed on food-boxes as so called traffic-lights, with green A letter given to the most heathy food products, and red E letter given to the products commonly known as “junk-food”. It has been shown up to 51% of consumers use food labels for making their product choices, and the Nutri-Score was adopted or recommended by several Europeans countries and companies, as simple yet often black box guidline for the consumers. However, the five-level Nutri-score system is based on nutritional grades (-15 to 40) that may be differently calculated in different countries, and it may occcasionally affect Nutri-Score of the same products saled in different countries.   
