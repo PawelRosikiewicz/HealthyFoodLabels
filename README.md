@@ -11,3 +11,5 @@ Nutri-Score is an intuitive system for showing nutritiotional value of food prod
 From the above reasons, I compared Nutri-Scores calculated with algorithms used in UK and France for over 60.000 food products that were available in Open Food Facts dataset https://world.openfoodfacts.org. UK and France Nutri-Scores of the same products were compared in 14 or 37 different groups of food products to see whether there are signifficant and consistent changes in information provided to consumers in different countries, and whther these changes may reflect products producced in these countires.   
 
 In my report I will show, that relatively small differences in calculating nutritional grades, in UK and France, may strongly affects Nutri-Score labels of very specific product groups such as cheese in France and sweetened beverages in UK, without affecting the labels on food products from many other groups. Moreover, the changes in nutritional grade are often sufficient to present some of these products as more, heathy in earther France or UK, and thus may potentially affect consumer choices.  
+
+more comming
