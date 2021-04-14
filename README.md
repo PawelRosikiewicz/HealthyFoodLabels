@@ -12,4 +12,21 @@ From the above reasons, I compared Nutri-Scores calculated with algorithms used 
 
 In my report I will show, that relatively small differences in calculating nutritional grades, in UK and France, may strongly affects Nutri-Score labels of very specific product groups such as cheese in France and sweetened beverages in UK, without affecting the labels on food products from many other groups. Moreover, the changes in nutritional grade are often sufficient to present some of these products as more, heathy in earther France or UK, and thus may potentially affect consumer choices.  
 
-more comming
+## Package Data Frame Explored that I created based on that project
+---
+![project presentation slide](images/dfe_intro.png)
+
+
+## SOME FIGURES FROM THE PROJECT
+---
+![project presentation slide](images/img01.png)
+![project presentation slide](images/img02.png)
+![project presentation slide](images/img03.png)
+![project presentation slide](images/img04.png)
+
+![project presentation slide](images/img09.png)
+![project presentation slide](images/img10.png)
+
+![project presentation slide](images/img11.png)
+![project presentation slide](images/img12.png)
+
